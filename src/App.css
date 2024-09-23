@@ -1,0 +1,54 @@
+/* .App {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: #444;
+  color: white;
+  padding-top: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.sidebar li:hover {
+  background-color: #555;
+}
+
+.sidebar ul ul {
+  display: none;
+}
+
+.sidebar ul li.expanded > ul {
+  display: block;
+} */
+
+
+/* src/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    /* Add whatever CSS style will make your link look active. The example below (in my case) */
+    @apply block py-2 pl-3 pr-4 text-white bg-orange-700 rounded md:bg-transparent md:text-purple-700 md:p-0;
+}

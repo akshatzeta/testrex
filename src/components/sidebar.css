@@ -1,0 +1,76 @@
+/* .sidebar {
+  display: flex; 
+  background-color: #eeecec;
+  color: black;
+  flex-direction: column;
+  width: 250px;
+  background-color: #f8f9fa;
+  font-size: 14px;
+}
+
+.account-logo, p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.account-text {
+  margin: 10px 0;
+  font-weight: bold;
+  margin-left: auto;
+}
+
+.PM {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.PM .fa-icon {
+  margin-left: auto;
+  padding: 5px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar li {
+  cursor: pointer;
+  margin: 10px 0;
+  display: flex;
+}
+
+.sidebar li ul {
+  padding-left: 20px;
+}
+
+.sidebar li:hover {
+  background-color: #e0dcee;
+  color: #a52fc0; 
+  transition: background-color 0.3s ease-out;
+  border-radius: 7px;
+}
+
+.sidebar ul ul {
+  display: none;
+}
+
+li.expanded > .PM {
+  overflow: hidden;
+  height: auto;
+}
+
+.submenu {
+  overflow: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
+.submenu.expanded {
+  height: auto;
+} */
+
+
+/* src/tailwind.css */

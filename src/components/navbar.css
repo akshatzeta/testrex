@@ -1,0 +1,20 @@
+/* .navbar {
+    background-color: #333;
+    display: flex;
+}
+
+.Logo{
+    margin-left: auto;
+}
+
+.logout{
+    position: static;
+    display: flex;
+    align-items: center;
+    margin-left:auto;
+    color: whitesmoke;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
